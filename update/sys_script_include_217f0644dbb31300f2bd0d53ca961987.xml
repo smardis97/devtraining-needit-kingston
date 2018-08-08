@@ -4,6 +4,7 @@
         <access>public</access>
         <active>true</active>
         <api_name>x_58872_needit.validateEmailAddress</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>On demand Script Include to validate email address syntax using regular expressions.</description>
         <name>validateEmailAddress</name>
